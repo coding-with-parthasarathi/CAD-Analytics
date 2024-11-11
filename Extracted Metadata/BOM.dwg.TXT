@@ -1,0 +1,86 @@
+Dept.
+Technical reference
+Created by
+Approved by
+Document type
+Document status
+Title
+DWG No.
+Rev.
+Date of issue
+Sheet
+Parts List
+Item
+Qty
+Part Number
+Material
+1
+2
+Supporting pipe
+PVC-Piping
+4
+Pipe
+3
+Frame pipe 1
+135 degree connector with hole
+5
+135 degree connector
+6
+90 degree connector with hole
+7
+90 degree connector
+8
+Frame pipe 2
+9
+Pipe cap
+Steel
+11
+Motor
+12
+Metal Bracket
+16
+Washer
+18
+19
+3 way connector
+20
+Gyroscope with glass
+21
+Wheel
+22
+Battery unit
+14
+15
+10
+13
+17
+PROJECT
+TITLE
+DRAWN
+CHECKED
+APPROVED
+SCALE
+WEIGHT
+SHEET
+DWG NO
+REV
+CODE
+SIZE
+24
+23
+B
+A
+D
+C
+F
+E
+H
+G
+I
+K
+J
+M
+L
+O
+N
+P
