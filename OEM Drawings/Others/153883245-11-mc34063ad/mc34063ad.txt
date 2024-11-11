@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-14012020-059328";"";
+"REFERENCE";"MC34063AD";"";
+"TraceParts.PartTitle";"Integrated Circuit Small Outline Packages - MC34063AD";"";
+"TraceParts.InstanceId";"33-14012020-0593282OX6418LBJADL5MS5313JM93F";"";
+"SUPPLIER";"Texas Instruments";"";
+"DESIGN";"Integrated Circuit Small Outline Packages - MC34063AD";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.2.1";"";
